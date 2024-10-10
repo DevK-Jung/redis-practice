@@ -1,4 +1,4 @@
-package com.example.redispractice.cache.entity;
+package com.example.redispractice.cache.board.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
